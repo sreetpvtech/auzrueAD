@@ -1,0 +1,13 @@
+{
+  "name": "azure-sso-demo",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "@azure/msal-browser": "^2.35.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
